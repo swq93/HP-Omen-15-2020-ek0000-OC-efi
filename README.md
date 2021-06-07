@@ -32,4 +32,4 @@ Opencore config files for HP Omen 15 2020 10870H
 
 ## 目前發現的bug
 * HDMI無輸出
-* 麥克風不工作，或許是因爲使用了Intel® Smart Sound Technology
+* 麥克風不工作，或許是因爲使用了Intel® Smart Sound Technology，解決辦法可以用usb聲卡
